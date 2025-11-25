@@ -6,6 +6,8 @@ import Foundation
 //"Вы совершеннолетний", если возраст ≥ 18.
 //"Вы несовершеннолетний", если возраст < 18.
 print("Something")
+print("Amogus")
+
 print("Задание 1.1: Введите возраст")
 let age = Int(readLine()!)
 
